@@ -1,0 +1,30 @@
+"Verificación de cuenta" - 2 puntos
+"Urgente" - 2 puntos
+"Contraseña" - 2 puntos
+"Actualizar información" - 2 puntos
+"Problema de seguridad" - 3 puntos
+"Ganador" - 2 puntos
+"Gratis" - 1 punto
+"Oferta exclusiva" - 2 puntos
+"Phishing" - 3 puntos
+"Su cuenta ha sido suspendida" - 3 puntos
+"Gane dinero rápido" - 2 puntos
+"Inicie sesión para verificar" - 3 puntos
+"Premio" - 2 puntos
+"¡Felicidades!" - 2 puntos
+"Importante" - 2 puntos
+"Compruebe su cuenta" - 2 puntos
+"Su cuenta será eliminada" - 3 puntos
+"¡Actúe ahora!" - 2 puntos
+"Problema con su pago" - 3 puntos
+"Gane un iPhone" - 2 puntos
+"Aviso de seguridad" - 2 puntos
+"Bloqueado" - 3 puntos
+"Confirmar su identidad" - 3 puntos
+"Oferta limitada" - 2 puntos
+"Gane un premio en efectivo" - 2 puntos
+"Su cuenta ha sido comprometida" - 3 puntos
+"¡Hoy es su día de suerte!" - 2 puntos
+"Restablecer contraseña" - 3 puntos
+"Actualización de seguridad requerida" - 3 puntos
+"Comunicado oficial" - 2 puntos
